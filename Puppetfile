@@ -7,6 +7,7 @@ mod 'puppetlabs/stdlib',  '6.0.0'
 mod 'puppetlabs/concat',  '6.0.0'
 mod 'puppetlabs-ntp', '8.4.0'
 mod 'puppetlabs-exec', '0.8.0'
+mod 'puppetlabs-mysql', '10.8.0'
 
 # Modules from Git
 # Examples: https://github.com/puppetlabs/r10k/blob/master/doc/puppetfile.mkd#examples
