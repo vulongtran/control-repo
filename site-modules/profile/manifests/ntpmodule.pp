@@ -1,6 +1,6 @@
 class profile::ntpmodule {
     class { 'ntp':
-      servers => [ 'time3.google.com', 'time4.google.com'],
+      servers => [ 'time2.google.com', 'time3.google.com'],
 }
 }
 # This is using resouce like class. That is:
