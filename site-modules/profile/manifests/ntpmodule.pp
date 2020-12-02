@@ -9,5 +9,6 @@ class profile::ntpmodule {
 # 
 # If we are to run this as a task to demo this without a Terminal, we can run the following within the PE console.
 # sudo rm -r /etc/ntp.conf
+# Let's test this changes
 
 
